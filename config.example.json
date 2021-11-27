@@ -1,0 +1,5 @@
+{
+  "Token": "discord bot token",
+  "BotPrefix": "!",
+  "CryptoApi": "crypto api key"
+}
